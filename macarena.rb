@@ -1,5 +1,5 @@
 puts "How To Do The Macarena:"
-# puts ""
+puts ""
 puts "Step 1: Right arm out in front of you, palm facing down."
 puts "Step 2: Left arm out in front of you, palm facing down."
 puts "Step 3: Turn your right palm up."
