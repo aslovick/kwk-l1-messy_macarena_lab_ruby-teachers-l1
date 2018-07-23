@@ -7,7 +7,7 @@ puts "Step 4: Turn your left palm up."
 puts "Step 5: Place your right hand on your left shoulder."
 puts "Step 6: Place your left hand on your right shoulder."
 puts "Step 7: Bring your right hand up and around to the back of your head."
-puts "Bring your left hand up and around to the back your head"
+puts "Step 8: Bring your left hand up and around to the back your head"
 
 
 # Fix The Dance Instructions Below
